@@ -18011,13 +18011,13 @@
                   },
                   {
                     label: "v0.33.1 (Bootstrap 3)",
-                    href: "https://react-bootstrap-v3.netlify.app/",
+                    href: "https://document-search.netlify.app/",
                   },
                 ],
                 position: "right",
               },
               {
-                href: "https://github.com/react-bootstrap/react-bootstrap",
+                href: "https://github.com/ai-jiraphinya/document-search",
                 label: "GitHub",
                 position: "right",
               },
@@ -18054,13 +18054,12 @@
                 items: [
                   {
                     label: "GitHub",
-                    href: "https://github.com/react-bootstrap/react-bootstrap",
+                    href: "https://github.com/ai-jiraphinya/document-search",
                   },
                 ],
               },
             ],
-            copyright:
-              "Copyright  2024 Mint. Built with Docusaurus.",
+            copyright: "Copyright  2024 Mint. Built with Docusaurus.",
             style: "light",
           },
           prism: {

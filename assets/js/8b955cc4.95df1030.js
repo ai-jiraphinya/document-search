@@ -112,7 +112,7 @@
               children: [
                 "The issue tracker is the preferred channel for bug reports, features\nrequests and submitting pull requests. See more about how we use issues\nin the ",
                 (0, o.jsx)(e.a, {
-                  href: "https://github.com/react-bootstrap/react-bootstrap/blob/master/CONTRIBUTING.md#issues",
+                  href: "https://github.com/ai-jiraphinya/document-search/blob/master/CONTRIBUTING.md#issues",
                   children: "contribution guidelines",
                 }),
                 ".",

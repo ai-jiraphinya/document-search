@@ -223,7 +223,7 @@
                   (0, t.jsx)(n.code, { children: "Popper" }),
                   " can measure and position it properly. In React-Bootstrap,\ntooltips and popovers sets the opacity and position to avoid issues where\nthe initial positioning of the overlay is incorrect. See the\n",
                   (0, t.jsx)(n.a, {
-                    href: "https://github.com/react-bootstrap/react-bootstrap/blob/master/src/Tooltip.tsx",
+                    href: "https://github.com/ai-jiraphinya/document-search/blob/master/src/Tooltip.tsx",
                     children: "Tooltip",
                   }),
                   "\nimplementation for an example on how this is done.",
