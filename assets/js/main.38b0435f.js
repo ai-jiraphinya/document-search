@@ -1,4 +1,3 @@
-/*! For license information please see main มิ้นน้อย.js.LICENSE.txt */
 (self.webpackChunkreact_bootstrap_website =
   self.webpackChunkreact_bootstrap_website || []).push([
   [179],
@@ -17936,20 +17935,19 @@
       const r = {
         title: "Document Search",
         tagline: " React By Mint Jiraphinya.",
-        url: "https://document-search.netlify.app",
+        url: "https://react-bootstrap.netlify.app",
         baseUrl: "/",
         onBrokenLinks: "throw",
         onBrokenMarkdownLinks: "warn",
         favicon: "img/favicon.ico",
-        deploymentBranch: "main",
+        organizationName: "react-bootstrap",
+        projectName: "react-bootstrap.github.io",
+        deploymentBranch: "master",
         i18n: {
           defaultLocale: "en",
-          locales: ["en", "th"],
+          locales: ["en"],
           path: "i18n",
-          localeConfigs: {
-           th: {
-             label: "ภาษาไทย"
-           }
+          localeConfigs: {},
         },
         plugins: [
           "./plugins/react-resolver-plugin",
@@ -18012,7 +18010,7 @@
                   },
                   {
                     label: "v0.33.1 (Bootstrap 3)",
-                    href: "https://document-search.netlify.app/",
+                    href: "https://react-bootstrap-v3.netlify.app/",
                   },
                 ],
                 position: "right",
@@ -18045,9 +18043,9 @@
                 items: [
                   {
                     label: "Stack Overflow",
-                    href: "https://stackoverflow.com/questions/tagged/react-bootstrap",
+                    href: "https://stackoverflow.com/",
                   },
-                  { label: "Discord", href: "https://discord.gg/AKfs9vpvRW" },
+                  { label: "Discord", href: "#" },
                 ],
               },
               {
@@ -18060,7 +18058,8 @@
                 ],
               },
             ],
-            copyright: "Copyright  2024 Mint. Built with Docusaurus.",
+            copyright:
+              "Copyright  2024 Mint. Built with Docusaurus.",
             style: "light",
           },
           prism: {
