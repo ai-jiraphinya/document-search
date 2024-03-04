@@ -9,7 +9,7 @@
     <a href="https://github.com/ai-jiraphinya/ai-jiraphinya/wiki">Docs</a> |
     <a href="https://nuxt-movies.vercel.app">By TMDB</a>
   </h4>
-  <h1 align="center">โครงการนี้คุณต้องมีสติ</h1>
+  <h1 align="center">Document Search By Mint</h1>
 </p>
 
 <p align="center">
@@ -34,13 +34,13 @@ https://mtify.hashnode.dev/
 <p align="center">
    <img src="https://res.cloudinary.com/mintmu/image/upload/v1707126516/ai-jiraphinya/jiraphinya_logo_svg.svg" width="256" height="256" alt="jiraphinya logo">
 </p>
--->
+
 <p align="center">
   <a href="https://mtify.hashnode.dev">
     <img loading="lazy" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1707950458022/9df4518d-5965-4179-8ea0-709300f11721.png?auto=compress,format&amp;format=webp" alt="" class="image--center mx-auto">
   </a>
+-->
 
-<h1 align="center">Docs Search By Mint</h1>
 
 This starter takes all the `.mdx` files in the `pages` directory and processes them to use as custom context within [OpenAI Text Completion](https://platform.openai.com/docs/guides/completion) prompts.
 
