@@ -43,11 +43,10 @@ https://mtify.hashnode.dev/
 -->
 ## Deploy
 This starter takes all the `.mdx` files in the `pages` directory and processes them to use as custom context within [OpenAI Text Completion](https://platform.openai.com/docs/guides/completion) prompts.
-
 ### Deploy Netlify No`OPENAI_KEY`No AI
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/559f1db1-f20e-4ab7-97a7-7091711e466c/deploy-status)](https://app.netlify.com/sites/document-search/deploys)
 </br>
+
 ### Deploy `OPENAI_KEY` Build MySQL:Supaase Docs
 Deploy this starter to Vercel. The Supabase integration will automatically set the required environment variables and configure your [Database Schema](./supabase/migrations/20230406025118_init.sql). All you have to do is set your `OPENAI_KEY` and you're ready to go!
 
