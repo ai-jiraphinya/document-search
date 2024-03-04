@@ -17936,19 +17936,20 @@
       const r = {
         title: "Document Search",
         tagline: " React By Mint Jiraphinya.",
-        url: "https://react-bootstrap.netlify.app",
+        url: "https://document-search.netlify.app",
         baseUrl: "/",
         onBrokenLinks: "throw",
         onBrokenMarkdownLinks: "warn",
         favicon: "img/favicon.ico",
-        organizationName: "react-bootstrap",
-        projectName: "react-bootstrap.github.io",
-        deploymentBranch: "master",
+        deploymentBranch: "main",
         i18n: {
           defaultLocale: "en",
-          locales: ["en"],
+          locales: ["en", "th"],
           path: "i18n",
-          localeConfigs: {},
+          localeConfigs: {
+           th: {
+             label: "ภาษาไทย"
+           }
         },
         plugins: [
           "./plugins/react-resolver-plugin",
