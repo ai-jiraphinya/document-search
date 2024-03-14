@@ -17986,8 +17986,8 @@
           },
           liveCodeBlock: { playgroundPosition: "top" },
           navbar: {
-            title: "Document Search",
-            logo: { alt: "Document Search Logo", src: "img/logo.svg" },
+            title: "Mint Jiraphinya",
+            logo: { alt: "Mint Jiraphinya Logo", src: "img/logo.svg" },
             items: [
               {
                 type: "doc",
