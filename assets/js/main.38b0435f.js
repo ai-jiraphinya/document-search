@@ -17935,15 +17935,15 @@
       n.r(t), n.d(t, { default: () => r });
       const r = {
         title: "Document Search",
-        tagline: "The most popular front-end framework, rebuilt for React.",
-        url: "https://react-bootstrap.netlify.app",
+        tagline: "The most popular front-end framework ิby mint-jiraphinya.",
+        url: "https://document-search.netlify.app",
         baseUrl: "/",
         onBrokenLinks: "throw",
         onBrokenMarkdownLinks: "warn",
         favicon: "img/favicon.ico",
-        organizationName: "react-bootstrap",
-        projectName: "react-bootstrap.github.io",
-        deploymentBranch: "master",
+        organizationName: "jiraphinya-lnc",
+        projectName: "ai-jiraphinya.github.io",
+        deploymentBranch: "main",
         i18n: {
           defaultLocale: "en",
           locales: ["en"],
@@ -18017,7 +18017,7 @@
                 position: "right",
               },
               {
-                href: "https://github.com/react-bootstrap/react-bootstrap",
+                href: "https://github.com/ai-jiraphinya/document-search",
                 label: "GitHub",
                 position: "right",
               },
@@ -18044,9 +18044,9 @@
                 items: [
                   {
                     label: "Stack Overflow",
-                    href: "https://stackoverflow.com/questions/tagged/react-bootstrap",
+                    href: "https://stackoverflow.com/",
                   },
-                  { label: "Discord", href: "https://discord.gg/AKfs9vpvRW" },
+                  { label: "Discord", href: "https://discord.gg/M4b53J49" },
                 ],
               },
               {
@@ -18054,13 +18054,13 @@
                 items: [
                   {
                     label: "GitHub",
-                    href: "https://github.com/react-bootstrap/react-bootstrap",
+                    href: "https://github.com/ai-jiraphinya/document-search",
                   },
                 ],
               },
             ],
             copyright:
-              "Copyright \xa9 2024 Document Search. Built with Docusaurus.",
+              "Copyright \xa9 2024 Mint Jiraphinya. Built with Docusaurus.",
             style: "light",
           },
           prism: {
