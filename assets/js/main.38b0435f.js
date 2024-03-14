@@ -17934,7 +17934,7 @@
       "use strict";
       n.r(t), n.d(t, { default: () => r });
       const r = {
-        title: "React Bootstrap",
+        title: "Document Search",
         tagline: "The most popular front-end framework, rebuilt for React.",
         url: "https://react-bootstrap.netlify.app",
         baseUrl: "/",
@@ -17986,8 +17986,8 @@
           },
           liveCodeBlock: { playgroundPosition: "top" },
           navbar: {
-            title: "React Bootstrap",
-            logo: { alt: "React Bootstrap Logo", src: "img/logo.svg" },
+            title: "Document Search",
+            logo: { alt: "Document Search Logo", src: "img/logo.svg" },
             items: [
               {
                 type: "doc",
@@ -18060,7 +18060,7 @@
               },
             ],
             copyright:
-              "Copyright \xa9 2024 React Bootstrap. Built with Docusaurus.",
+              "Copyright \xa9 2024 Document Search. Built with Docusaurus.",
             style: "light",
           },
           prism: {
