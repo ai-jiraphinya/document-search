@@ -44,6 +44,8 @@ https://mtify.hashnode.dev/
 ## Deploy
 ### Deploy Netlify No`OPENAI_KEY`No AI
 [![Netlify Status](https://api.netlify.com/api/v1/badges/559f1db1-f20e-4ab7-97a7-7091711e466c/deploy-status)](https://app.netlify.com/sites/document-search/deploys)
+Document Search deployed with Netify
+Below is the development of another part that requires supabase, MySQL, so personal work is separated from each other. But you can understand and apply by following the subabase link yourself. It's easy and always free.
 </br>
 ### Deploy `OPENAI_KEY` Build MySQL:Supabase Docs
 This starter takes all the `.mdx` files in the `pages` directory and processes them to use as custom context within [OpenAI Text Completion](https://platform.openai.com/docs/guides/completion) prompts.
