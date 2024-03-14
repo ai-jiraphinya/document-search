@@ -43,6 +43,7 @@ https://mtify.hashnode.dev/
   </a>
 -->
 ## Deploy
+- เเจ้งเพื่อทราบการเปิดหน้านี้ด้วย pc,มือถือ,เเอพ-คุณจะเห็น!  `code ` บางอย่าง ที่ไม่เหมือนกัน.
 ### Deploy Netlify No`OPENAI_KEY`No AI
 [![Netlify Status](https://api.netlify.com/api/v1/badges/559f1db1-f20e-4ab7-97a7-7091711e466c/deploy-status)](https://app.netlify.com/sites/document-search/deploys)
 
@@ -205,3 +206,11 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 <a rel="me" href="https://mastodon.social/@Jiraphinya">Mastodon</a>
 -->
+
+### หากต้องการสนับสนุนทุนการศึกษา/ชานมเย็นสักแก้ว 35 บาท
+
+```java
+สุมาลี วงค์ศรีชา กสิกรไทย 121-3-84931-6 บัญชีเเม่
+ปรีดิ์ปราโมทย์ เวชบุตร กสิกร 110-8-25747-0 บัญชีพี่มิว
+```
+
