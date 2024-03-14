@@ -16,7 +16,8 @@
   <a aria-label="Join the community on Slack" href="https://mtify.hashnode.dev">
     <img alt="" src="https://img.shields.io/badge/i_studio_hashnode-blue?link=https%3A%2F%2Fmtify.hashnode.dev">
   <a aria-label="Join " href="https://github.com/ai-jiraphinya/hotel-management">
-    <img alt="" src="https://img.shields.io/badge/Mint_-Github.io-red">
+    <img alt="" src="https://img.shields.io/badge/hotel-management-%23F03E2F?logo=sanity">
+
   </a>
   <a aria-label="Join the on Telegram" href="https://t.me/MintChatAI">
     <img alt="" src="https://img.shields.io/badge/Telegram_-%40Mint-%2326A5E4?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2FMintChatAI">
