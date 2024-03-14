@@ -17935,7 +17935,7 @@
       n.r(t), n.d(t, { default: () => r });
       const r = {
         title: "Document Search",
-        tagline: "The most popular front-end framework ิby mint-jiraphinya.",
+        tagline: "Front-end framework removes trackers and hidden ads by mint-jiraphinya.",
         url: "https://document-search.netlify.app",
         baseUrl: "/",
         onBrokenLinks: "throw",
